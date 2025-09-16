@@ -23,20 +23,21 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav2325&show_icons=true&theme=vision-friendly-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=vision-friendly-dark" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Streak & Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=highcontrast" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav2325&theme=highcontrast" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav2325&theme=react-dark" alt="activity graph"/>
 </p>
+
 
 ---
 
@@ -46,7 +47,9 @@
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:pranav.p.dhondkarl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-dhondkar-637193329/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/pranav-dhondkar-637193329/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 </p>
 
 ---

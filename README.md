@@ -16,8 +16,8 @@
 ---
 
 ### 📌 Featured Projects
-🌟 [SecondBite](https://github.com/yourusername/SecondBite) – Food-sharing app prototype built using Flutter & Firebase.    
-📚 [DSA Practice](https://github.com/yourusername/dsa-practice) – Java solutions for Striver A2Z DSA Sheet.  
+🌟 [AI Resume Builder](https://github.com/Pranav2325/AI-RESUME-BUILDER) – Smart resume generator built using AI to create tailored, ATS-friendly resumes.    
+📚 [Digital Social Profile Marketplace](https://github.com/Pranav2325/digital-social-profile-marketplace) – Platform for buying, selling, and managing digital social profiles with secure authentication and transactions.  
 
 ---
 

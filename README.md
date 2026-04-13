@@ -21,12 +21,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav2325&show_icons=true&theme=vision-friendly-dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=vision-friendly-dark" height="180"/>
-</p>
-
 ---
 
 ### 🔥 Streak & Contributions

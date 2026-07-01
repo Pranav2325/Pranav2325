@@ -154,7 +154,7 @@
 <!-- Replace LEETCODE_USERNAME and GFG_USERNAME with your actual handles -->
 <p align="center">
   <a href="https://leetcode.com/pranav2325">
-    <img src="https://leetcode-stats-six.vercel.app/?username=pranav2325&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/pranav2325?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 

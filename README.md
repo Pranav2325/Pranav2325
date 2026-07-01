@@ -1,139 +1,120 @@
 <!--
   ANIMATED GITHUB PROFILE README — Pranav Dhondkar
   ==================================================
-  SETUP:
-  1. Create a public repo named exactly: Pranav2325/Pranav2325
-  2. Commit this file as README.md in that repo.
-  3. (Optional but recommended) Add .github/workflows/snake.yml (provided separately)
-     to enable the animated contribution snake below.
+  Design: sunset/teal gradient theme, card-based tech grid, dracula stats.
+  SETUP: commit as README.md inside the Pranav2325/Pranav2325 repo.
 -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Pranav%20Dhondkar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=62" width="100%" />
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There,%20I'm%20Pranav%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Animated typing intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=600&lines=I+love+to+build+projects;I+enjoy+solving+real-world+problems;Always+learning+new+technologies;Let's+build+something+great+together!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=Pranav2325&label=Profile%20Views&color=00FFB3&style=flat" alt="profile views" />
-
-<!-- Social badge -->
-<p>
-  <a href="mailto:pranav.p.dhondkarl@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-dhondkar-637193329/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+<p align="center">
+  <a href="https://github.com/Pranav2325">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%92%BB+I+love+turning+ideas+into+working+apps;%F0%9F%A7%A9+I+enjoy+solving+real-world+problems;%F0%9F%93%9A+Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav2325&label=Profile%20Views&color=00c9a7&style=flat-square" alt="Profile Views" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 About Me
+## 🧰 What I Build With
 
-- 💻 I'm a **Web Developer** who loves turning ideas into working products
-- 🌱 Currently sharpening my skills in **Flutter, Firebase, and full-stack development**
-- 🤝 Open to collaborating on **web & mobile projects**
-- ⚡ I enjoy solving real-world problems with code
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
+### 📱 App Development
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,java&perline=3" />
+<br><br>
 
-### 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,flutter,firebase,mysql,git,github,vscode&theme=dark" />
-</div>
+</td>
+<td align="center" width="50%">
 
-<div align="center">
+### 🐍 Backend & Data
+<br>
+<img src="https://skillicons.dev/icons?i=python,mysql&perline=3" />
+<br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" colspan="2">
 
----
+### 🛠️ Tools I Rely On
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+<br><br>
 
-### 📌 Featured Projects
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/Pranav2325/AI-RESUME-BUILDER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=AI-RESUME-BUILDER&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Pranav2325/digital-social-profile-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=digital-social-profile-marketplace&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+## 🚧 Projects I'm Proud Of
 
-🌟 **[AI Resume Builder](https://github.com/Pranav2325/AI-RESUME-BUILDER)** — Smart resume generator built using AI to create tailored, ATS-friendly resumes.
-📚 **[Digital Social Profile Marketplace](https://github.com/Pranav2325/digital-social-profile-marketplace)** — Platform for buying, selling, and managing digital social profiles with secure authentication and transactions.
+<p align="center">
+  <a href="https://github.com/Pranav2325/AI-RESUME-BUILDER">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=AI-RESUME-BUILDER&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00c9a7&icon_color=2c5364" />
+  </a>
+  <a href="https://github.com/Pranav2325/digital-social-profile-marketplace">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=digital-social-profile-marketplace&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00c9a7&icon_color=2c5364" />
+  </a>
+</p>
 
----
+<p align="center">
+🌟 <b>AI Resume Builder</b> — Smart resume generator built with AI to create tailored, ATS-friendly resumes.<br>
+📚 <b>Digital Social Profile Marketplace</b> — A platform for buying, selling, and managing digital social profiles with secure auth and transactions.
+</p>
 
-### 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav2325&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=highcontrast&hide_border=true" />
-</div>
+## 📊 GitHub Analytics
 
-### 🔥 Streak & Contributions
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav2325&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00c9a7&icon_color=2c5364&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00c9a7&text_color=ffffff" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav2325&theme=highcontrast&hide_border=true" alt="streak"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pranav2325&theme=dracula&hide_border=true&background=0D1117&stroke=00c9a7&ring=2c5364&fire=00c9a7&currStreakLabel=ffffff" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav2325&theme=react-dark&hide_border=true" alt="activity graph" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav2325&bg_color=0D1117&color=00c9a7&line=2c5364&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🐍 Contribution Snake (animated)
+## 💬 Random Dev Wisdom
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav2325/Pranav2325/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav2325/Pranav2325/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav2325/Pranav2325/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</p>
 
-*(Runs automatically once you add the included `snake.yml` workflow to this repo — see setup notes at the top of this file.)*
+## 🤝 Let's Connect
 
----
+<p align="center">
+  <a href="mailto:pranav.p.dhondkarl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-dhondkar-637193329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav2325&theme=algolia&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connect with Me
-
-<a href="mailto:pranav.p.dhondkarl@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
-<a href="https://www.linkedin.com/in/pranav-dhondkar-637193329/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
-
-<br/><br/>
-
-<!-- Animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**Thanks for stopping by! ⭐ Star my repos if you find them useful.**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=footer" width="100%" />

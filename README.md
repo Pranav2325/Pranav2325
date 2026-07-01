@@ -4,16 +4,7 @@
   ==================================================
   SETUP: commit as README.md inside the Pranav2325/Pranav2325 repo.
 
-  NOTE ON THE ANIME GIFS:
-  I did not hardcode a Tenor/Giphy character gif here because I can't verify
-  those direct media links actually resolve — and broken image links was
-  exactly the problem last time. Adding one yourself takes 10 seconds and
-  is 100% reliable:
-    1. Go to https://tenor.com or https://giphy.com and search "Death Note"
-    2. Open the gif you want → right-click it → "Copy Image Address"
-       (make sure the URL ends in .gif and starts with https://media...)
-    3. Paste that URL into the DEATH_NOTE_GIF_URL_HERE spot below.
-  This guarantees it actually loads instead of showing a broken icon.
+
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=210&section=header&text=Pranav%20Dhondkar&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60" width="100%" />
@@ -163,13 +154,13 @@
 <!-- Replace LEETCODE_USERNAME and GFG_USERNAME with your actual handles -->
 <p align="center">
   <a href="https://leetcode.com/pranav2325">
-    <img src="https://leetcode-stats-six.vercel.app/?username=LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=pranav2325&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/pranavdh7kfv/">
-    <img src="https://gfgstatscard.vercel.app/GFG_USERNAME" alt="GFG Stats" />
+    <img src="https://gfgstatscard.vercel.app/pranavdh7kfv" alt="GFG Stats" />
   </a>
 </p>
 

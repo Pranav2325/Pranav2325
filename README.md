@@ -30,44 +30,75 @@
 
 <!-- 🍎 Put your own verified Death Note gif URL here -->
 <p align="center">
-  <img src="https://media.tenor.com/ranNc0BHOI4AAAAM/popopo.gif" width="55%" alt="Death Note animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZsb3g2eHJyOWhnOXg3ZmhzNzdpc3hmOW5scDU2djgwODk0OHdrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z6iLzMvdhKdNK/giphy.gif" width="55%" alt="Death Note animation" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
 
-## 📓 Rules of Engagement
+## INTRODUCTION
 
-- 💻 I'm a **Web Developer** who turns ideas into working products
-- 🌙 Currently sharpening my skills in **Flutter, Firebase, and full-stack development**
-- 🤝 Open to collaborating on **web & mobile projects**
-- 🍎 I write clean code the way L eats sweets — obsessively, and a lot of it
+- I'm a **Computer Science Engineering student** and **Full Stack Developer**
+- Skilled in the **MERN Stack** with experience building modern web applications
+- Currently exploring **AI Agent Development** and intelligent automation
+- Passionate about learning new technologies and building real-world projects
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
 
-## ⚔️ Tech Arsenal
+## TECH STACK
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 📱 App Development
+### LANGUAGES
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,java&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c&perline=4" />
 <br><br>
 
-![Flutter](https://img.shields.io/badge/Flutter-8b0000?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-8b0000?style=flat-square&logo=firebase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-8b0000?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-8b0000?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8b0000?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-8b0000?style=flat-square&logo=c&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### 🐍 Backend & Data
+### FRONTEND
 <br>
-<img src="https://skillicons.dev/icons?i=python,mysql&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=6" />
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-8b0000?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8b0000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8b0000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8b0000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-8b0000?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8b0000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8b0000?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### BACKEND
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
+<br><br>
+
+![Node.js](https://img.shields.io/badge/Node.js-8b0000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-8b0000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8b0000?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-8b0000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### DATABASE
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
+<br><br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-8b0000?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8b0000?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
@@ -75,14 +106,33 @@
 <tr>
 <td align="center" colspan="2">
 
-### 🛠️ Tools I Rely On
+### CURRENTLY LEARNING
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-DC143C?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-DC143C?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-DC143C?style=flat-square&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-DC143C?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat-square&logo=openai&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-DC143C?style=flat-square&logo=pinecone&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+###  TOOLS
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,firebase&perline=6" />
 <br><br>
 
 ![Git](https://img.shields.io/badge/Git-8b0000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-8b0000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8b0000?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-8b0000?style=flat-square&logo=npm&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-8b0000?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
 </tr>
@@ -90,7 +140,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
 
-## 📖 Pages of the Notebook (Projects)
+## PROJECTS
 
 <p align="center">
   <a href="https://github.com/Pranav2325/AI-RESUME-BUILDER">
@@ -108,7 +158,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
 
-## 📊 GitHub Analytics
+##  CODING PROFILES
+
+<!-- Replace LEETCODE_USERNAME and GFG_USERNAME with your actual handles -->
+<p align="center">
+  <a href="https://leetcode.com/pranav2325">
+    <img src="https://leetcode-stats-six.vercel.app/?username=LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/pranavdh7kfv/">
+    <img src="https://gfgstatscard.vercel.app/GFG_USERNAME" alt="GFG Stats" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
+
+##  GITHUB ANALYTICS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranav2325&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff&include_all_commits=true" />
@@ -125,7 +192,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=4&section=header" width="100%">
 
-## 🍎 Contact to me 
+##  CONTACT ME
 
 <p align="center">
   <a href="mailto:pranav.p.dhondkarl@gmail.com">

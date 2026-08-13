@@ -135,10 +135,10 @@
 
 <p align="center">
   <a href="https://github.com/Pranav2325/AI-RESUME-BUILDER">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=AI-RESUME-BUILDER&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/pin/?username=Pranav2325&repo=AI-RESUME-BUILDER&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff" />
   </a>
   <a href="https://github.com/Pranav2325/digital-social-profile-marketplace">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav2325&repo=digital-social-profile-marketplace&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/pin/?username=Pranav2325&repo=digital-social-profile-marketplace&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff" />
   </a>
 </p>
 
@@ -169,8 +169,8 @@
 ##  GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav2325&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Pranav2325&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8b0000&text_color=ffffff&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pranav2325&layout=compact&theme=github-dark&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff" />
 </p>
 
 <p align="center">
